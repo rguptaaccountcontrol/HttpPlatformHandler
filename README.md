@@ -3,7 +3,7 @@ Setup HTTPPLATFORMHANDLER feature in IIS
 
 1.	See the diagram below. The features listed there should be on.
  
-
+![Alt text](img/img1.jpg?raw=true "Title")
 
 
 
