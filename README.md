@@ -18,21 +18,24 @@ a.	app.js is the nodejs pgm. In that is the web.config file.
 
 See the web.config file below. The processPath and the argument should be exactly as shown. The path for app.js is relative as shown by “.\”. I tried putting the full path, and it did not work.
 
-'<?xml version="1.0" encoding="UTF-8"?>
-<configuration>
-    <system.webServer>
-        <handlers>
-            <add name="httpplatformhandler" path="*" verb="*" modules="httpPlatformHandler" resourceType="Unspecified" requireAccess="Script" />
-        </handlers>
-        <httpPlatform stdoutLogEnabled="true" stdoutLogFile=".\node.log" startupTimeLimit="20" processPath="node.exe" arguments=".\app.js">
-            <environmentVariables>
-                <environmentVariable name="PORT" value="%HTTP_PLATFORM_PORT%" />
-                <environmentVariable name="NODE_ENV" value="Production" />
-            </environmentVariables>            
-        </httpPlatform>
-    </system.webServer>
-</configuration>'
-
+<pre>
+<code>
+&lt?xml version="1.0" encoding="UTF-8"?&gt
+&ltconfiguration&gt
+    &ltsystem.webServer&gt
+        &lthandlers&gt
+            &ltadd name="httpplatformhandler" path="*" verb="*" modules="httpPlatformHandler" resourceType="Unspecified" requireAccess="Script" /&gt
+        &lt/handlers&gt
+        &lthttpPlatform stdoutLogEnabled="true" stdoutLogFile=".\node.log" startupTimeLimit="20" processPath="node.exe" arguments=".\app.js"&gt
+            &ltenvironmentVariables&gt
+                &ltenvironmentVariable name="PORT" value="%HTTP_PLATFORM_PORT%" /&gt
+                &ltenvironmentVariable name="NODE_ENV" value="Production" /&gt
+            &lt/environmentVariables&gt            
+        &lt/httpPlatform&gt
+    &lt/system.webServer&gt
+&lt/configuration&gt
+</code>
+</pre>
 
 
 
