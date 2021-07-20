@@ -16,7 +16,7 @@ Setup HTTPPLATFORMHANDLER feature in IIS
 a.	app.js is the nodejs pgm. In that is the web.config file.
  ![Alt text](img/img2.jpg?raw=true "Title")
 
-See the web.config file below. The processPath and the argument should be exactly as shown. The path for app.js is relative as shown by “.\”. I tried putting the full path, and it did not work.
+See the web.config file below. <b>The processPath and the argument should be exactly as shown</b>. The <b>path for app.js is relative as shown by “.\”</b>. <b>I tried putting the full path, and it did not work.</b>
 
 <pre>
 <code>
