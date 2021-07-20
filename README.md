@@ -18,7 +18,7 @@ a.	app.js is the nodejs pgm. In that is the web.config file.
 
 See the web.config file below. The processPath and the argument should be exactly as shown. The path for app.js is relative as shown by “.\”. I tried putting the full path, and it did not work.
 
-<?xml version="1.0" encoding="UTF-8"?>
+'<?xml version="1.0" encoding="UTF-8"?>
 <configuration>
     <system.webServer>
         <handlers>
@@ -31,7 +31,7 @@ See the web.config file below. The processPath and the argument should be exactl
             </environmentVariables>            
         </httpPlatform>
     </system.webServer>
-</configuration>
+</configuration>'
 
 
 
