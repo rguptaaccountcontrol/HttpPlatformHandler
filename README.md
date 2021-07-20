@@ -12,9 +12,9 @@ Setup HTTPPLATFORMHANDLER feature in IIS
 
 
 
-2.	Place the web.config file at the location of the nodejs pgm. See below.
+2.	Place the <b>web.config file at the location of the nodejs pgm</b>. See below.
 a.	app.js is the nodejs pgm. In that is the web.config file.
- 
+ ![Alt text](img/img2.jpg?raw=true "Title")
 
 See the web.config file below. The processPath and the argument should be exactly as shown. The path for app.js is relative as shown by “.\”. I tried putting the full path, and it did not work.
 
