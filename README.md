@@ -47,11 +47,11 @@ See the web.config file below. <b>The processPath and the argument should be exa
 <b>IIS Modules needed</b>
 
 Download the HttpPlatformHandler module in install is. Check as shown below that it is installed.
-
+![Alt text](img/img3.jpg?raw=true "Title")
  
 
 Download the “URL Rewrite” module and install it. Check as shown below that it is installed.
- 
+ ![Alt text](img/img4.jpg?raw=true "Title")
 
 
 
@@ -59,14 +59,14 @@ Download the “URL Rewrite” module and install it. Check as shown below that 
 <b>IIS Setup</b>
 
 See the basic settings below. It is like setting up any web application in the Default Web Site. That is setup up right clicking on the Default Web Site and in the ensuing dialog box click Add Application. With that action a dialog box will appear as shown below. In that box add the values as shown.
-
+![Alt text](img/img5.jpg?raw=true "Title")
  
 
 
 
 That is the setup. After that to <b>test</b> go to the browser and type the URL, in this case https://localhost/Firstpgm or http://localhost/Firstpgm. Use https or http based on how the IIS is setup.
 
-
+![Alt text](img/img6.jpg?raw=true "Title")
  	
 <b>To see the NodeJs pgm called app.js open it in  firstPgm folder.</b>
 
