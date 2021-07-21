@@ -70,7 +70,7 @@ That is the setup. After that to <b>test</b> go to the browser and type the URL,
 ![Alt text](img/img6.jpg?raw=true "Title")
  	
 <b>To see the NodeJs pgm called app.js open it in  firstPgm folder.</b>
-
+<hr>
 <b> Download HttpPlatformHandler </b><br>
 https://www.iis.net/downloads/microsoft/httpplatformhandler<br>
 <b>Helpful web sites</b><br>
