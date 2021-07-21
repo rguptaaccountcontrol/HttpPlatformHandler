@@ -68,7 +68,7 @@ See the basic settings below. It is like setting up any web application in the D
 That is the setup. After that to <b>test</b> go to the browser and type the URL, in this case https://localhost/Firstpgm or http://localhost/Firstpgm. Use https or http based on how the IIS is setup.
 
 ![Alt text](img/img6.jpg?raw=true "Title")
- 	
+<hr>	
 <b>To see the NodeJs pgm called app.js open it in  firstPgm folder.</b>
 <hr>
 <b> Download HttpPlatformHandler </b><br>
