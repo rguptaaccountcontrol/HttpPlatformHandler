@@ -71,3 +71,5 @@ That is the setup. After that to <b>test</b> go to the browser and type the URL,
  	
 <b>To see the NodeJs pgm called app.js open it in  firstPgm folder.</b>
 
+<b>Helpful web sites</b>
+https://code.visualstudio.com/docs/nodejs/nodejs-debugging
