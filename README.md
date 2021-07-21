@@ -72,8 +72,8 @@ That is the setup. After that to <b>test</b> go to the browser and type the URL,
 <b>To see the NodeJs pgm called app.js open it in  firstPgm folder.</b>
 <hr>
 <b> Download HttpPlatformHandler </b><br>
-<hr>
 https://www.iis.net/downloads/microsoft/httpplatformhandler<br>
+<hr>
 <b>Helpful web sites</b><br>
 https://code.visualstudio.com/docs/nodejs/nodejs-debugging <br>
 https://docs.npmjs.com/getting-started <br>
@@ -83,5 +83,6 @@ https://nodejs.dev/learn/making-http-requests-with-nodejs <br>
 https://dev.to/petereysermans/using-http-platform-handler-to-host-a-node-js-application-via-iis-4pgd <br>
 <hr>
 <b>Using IIS Reverse Proxy for nodejs. We do not use reverse-proxy with HttpPlatformHandler</b><br>
-https://eysermans.com/post/hosting-a-nodejs-application-on-windows-with-iis-as-reverse-proxy
+https://eysermans.com/post/hosting-a-nodejs-application-on-windows-with-iis-as-reverse-proxy <br>
+To download URL rewrite: https://www.iis.net/downloads/microsoft/url-rewrite
 
