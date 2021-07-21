@@ -73,3 +73,6 @@ That is the setup. After that to <b>test</b> go to the browser and type the URL,
 
 <b>Helpful web sites</b><br>
 https://code.visualstudio.com/docs/nodejs/nodejs-debugging
+https://docs.npmjs.com/getting-started
+https://nodejs.org/en/docs/guides/debugging-getting-started/
+
