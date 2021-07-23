@@ -84,5 +84,9 @@ https://dev.to/petereysermans/using-http-platform-handler-to-host-a-node-js-appl
 <hr>
 <b>Using IIS Reverse Proxy for nodejs. We do not use reverse-proxy with HttpPlatformHandler</b><br>
 https://eysermans.com/post/hosting-a-nodejs-application-on-windows-with-iis-as-reverse-proxy <br>
-To download URL rewrite: https://www.iis.net/downloads/microsoft/url-rewrite
+To download URL rewrite: https://www.iis.net/downloads/microsoft/url-rewrite <br>
+
+<h2> Routing</h2><br>
+<b>Routing HTTP</b><br>
+<b>Routing Express</b><br>
 
