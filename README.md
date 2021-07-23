@@ -86,7 +86,12 @@ https://dev.to/petereysermans/using-http-platform-handler-to-host-a-node-js-appl
 https://eysermans.com/post/hosting-a-nodejs-application-on-windows-with-iis-as-reverse-proxy <br>
 To download URL rewrite: https://www.iis.net/downloads/microsoft/url-rewrite <br>
 
-<h2> Routing</h2><br>
+<hr>
+<h2> Routing</h2>
 <b>Routing HTTP</b><br>
+https://www.codexpedia.com/node-js/node-js-http-url-routing-using-url-pathname/ <br>
 <b>Routing Express</b><br>
+https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm <br>
+https://learncybers.com/express-router-easy-static-dynamic-routing/ <br>
+https://learncybers.com/express-middleware-in-node-express-js/ >br>
 
