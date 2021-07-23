@@ -1,0 +1,133 @@
+server is running on port: 17791               
+url: /RoutingHTTP/
+method: GET
+port: 17791               
+time: 1
+/RoutingHTTP/ Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/RoutingHTTP/',
+  path: '/RoutingHTTP/',
+  href: '/RoutingHTTP/'
+}
+/
+/RoutingHTTP/ Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/RoutingHTTP/',
+  href: '/RoutingHTTP/'
+}
+url: /RoutingHTTP
+method: GET
+port: 17791               
+time: 1
+/RoutingHTTP Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/RoutingHTTP',
+  path: '/RoutingHTTP',
+  href: '/RoutingHTTP'
+}
+
+/RoutingHTTP Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '',
+  path: '/RoutingHTTP',
+  href: '/RoutingHTTP'
+}
+url: /RoutingHTTP/
+method: GET
+port: 17791               
+time: 1
+/RoutingHTTP/ Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/RoutingHTTP/',
+  path: '/RoutingHTTP/',
+  href: '/RoutingHTTP/'
+}
+/
+/RoutingHTTP/ Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/RoutingHTTP/',
+  href: '/RoutingHTTP/'
+}
+url: /RoutingHTTP
+method: GET
+port: 17791               
+time: 1
+/RoutingHTTP Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/RoutingHTTP',
+  path: '/RoutingHTTP',
+  href: '/RoutingHTTP'
+}
+
+/RoutingHTTP Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '',
+  path: '/RoutingHTTP',
+  href: '/RoutingHTTP'
+}
