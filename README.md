@@ -89,8 +89,10 @@ To download URL rewrite: https://www.iis.net/downloads/microsoft/url-rewrite <br
 <hr>
 <h2> Routing</h2>
 <b>Routing HTTP</b><br>
+<p>Look at code in <b>RoutingHTTP folder</b></p>
 https://www.codexpedia.com/node-js/node-js-http-url-routing-using-url-pathname/ <br>
 <b>Routing Express</b><br>
+<p>Look at code in <b>RoutingExpress folder</b></p>
 https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm <br>
 https://learncybers.com/express-router-easy-static-dynamic-routing/ <br>
 https://learncybers.com/express-middleware-in-node-express-js/ >br>
